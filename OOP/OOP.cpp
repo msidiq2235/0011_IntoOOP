@@ -27,3 +27,9 @@ class bangunDatar {
 			cout << "Luasnya = " << hitungLuas() << endl;
 		}
 };
+
+int main() {
+	bangunDatar pp; // deklasrasi objek pp dari class bangunDatar
+	pp.input();
+	pp.display();
+}
