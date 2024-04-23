@@ -8,4 +8,8 @@ class bangunDatar {
 		float panjang, Lebar;
 	public:
 		float Luas;
+
+		void input() { //metode input persegi panjang
+
+		}
 };
