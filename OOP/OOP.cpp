@@ -32,4 +32,6 @@ int main() {
 	bangunDatar pp; // deklasrasi objek pp dari class bangunDatar
 	pp.input();
 	pp.display();
+
+	return 0;
 }
